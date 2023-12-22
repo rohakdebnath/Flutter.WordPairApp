@@ -292,7 +292,7 @@ class ProfilePage extends StatelessWidget {
         children: [
           Center(
             child: CircleAvatar(
-              radius: 60,
+              radius: 100,
               backgroundImage: NetworkImage('https://i.imgur.com/W46YISY.jpeg'),
             ),
           ),
